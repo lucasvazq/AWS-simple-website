@@ -53,6 +53,6 @@ structure if it generates a benefit without cost.
 
 3) Whatsapp sms, call button for mobiles
 
-4) aria-label + role attributes
+4) ARIA labels (with role attribute)
 
 5) Search for beauty and lightweight javascript libraries
