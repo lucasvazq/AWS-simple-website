@@ -1,4 +1,7 @@
-Purgued and transpiled code
+# Implementation Ideas
+
+## Purgued and transpiled code
+
 1) Generate React App
 2) Pass it throught webpack
 3) Ordain css and html output

@@ -13,7 +13,8 @@ structure if it generates a benefit without cost.
 
 ## Back end
 
-1) Server Side Rendering
+1) Dockerization
+2) Server Side Rendering
 3) Purge CSS and Javascript
 4) HTTP Caching in Client Side
 5) Allow gzip and bzip compression methods
