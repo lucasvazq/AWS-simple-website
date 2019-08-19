@@ -26,7 +26,7 @@ Install all:
 
 Install all:
 
-`npm i -D css-loader cssnano mini-css-extract-plugin optimize-css-assets-webpack-plugin postcss-loader postcss-preset-env purgecss-webpack-plugin style-loader`
+`npm i -D css-loader cssnano mini-css-extract-plugin optimize-css-assets-webpack-plugin postcss-loader postcss-preset-env purgecss-webpack-plugin style-loader jquery`
 
 ### HTML
 
@@ -35,3 +35,7 @@ Install all:
 ### CSS
 
 `css-loader cssnano mini-css-extract-plugin optimize-css-assets-webpack-plugin postcss-loader postcss-preset-env purgecss-webpack-plugin style-loader`
+
+### Other
+
+`jquery`
