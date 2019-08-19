@@ -20,22 +20,3 @@ structure if it generates a benefit without cost.
 5) Allow gzip and bzip compression methods
 6) HTTP Caching in Client Side
 7) Allow gzip and bzip compression methods
-
-## Front end
-
-### General
-
-1) Admin service
-2) Responsive design
-3) Maskable icons
-4) AMP
-5) PWA
-6) Test in old PC
-
-### Specific
-
-1) Structured data: RDFa, JSON-D, Microdata, GoodRelations, vCard, hCard
-2) rel profile attribute for referring to author of website
-3) Whatsapp sms, call button for mobiles
-4) ARIA labels (with role attribute)
-5) Search for beauty and lightweight javascript libraries

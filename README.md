@@ -1,6 +1,6 @@
 # AWS simple website
 
-Space for learn about AWS services
+Space for learn about AWS services and Server Side Rendering
 
 ## Features
 
