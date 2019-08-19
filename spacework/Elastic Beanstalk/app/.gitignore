@@ -1,0 +1,6 @@
+# Ignore folders
+.next/
+node_modules/
+
+# Ignore files
+./package-lock.json
