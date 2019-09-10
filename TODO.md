@@ -1,5 +1,10 @@
 # TODO
 
+TODO:
+  AWS Lambda Layers (lambda shared code, i.e. helpers)
+  AWS SQS
+  AWS Puppet
+
 ## Server architecture
 
 Learn about the next concepts and considerate to add them to the server
