@@ -6,3 +6,6 @@
 2) Pass it throught webpack
 3) Ordain css and html output
 4) Add code to Express for Server Side Rendering
+
+
+AWS resources groups
