@@ -4,6 +4,7 @@ TODO:
   AWS Lambda Layers (lambda shared code, i.e. helpers)
   AWS SQS
   AWS Puppet
+  AWS Amazon System Manager
 
 ## Server architecture
 
