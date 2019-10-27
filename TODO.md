@@ -17,7 +17,7 @@ structure if it generates a benefit without cost.
 4) Shield
 5) Pipeline CI/CD (CodePipeline, CodeCommit, CodeDeploy)
 6) IaC: CloudFormation (Configuration Orchestration)
-7) Cheff (Configuration Management)
+7) CCA: Cheff (Configuration Management)
 
 ## Back end
 
