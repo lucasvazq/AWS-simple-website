@@ -5,6 +5,7 @@ TODO:
   AWS SQS
   AWS Puppet
   AWS Amazon System Manager
+- security: learn about this. Add ssh max retry
 
 ## Server architecture
 
