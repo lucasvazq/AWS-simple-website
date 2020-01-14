@@ -26,6 +26,8 @@ Tech:
   
   Take a look for:
     babel-plugin-react-css-modules
+    MiniCssExtractPlugin
+    css-loader, style-loader, cssnano, babel-loader (read all postcss github README.md)
   
   Cool packages:
     Waves: https://github.com/fians/Waves
