@@ -16,7 +16,7 @@ Tech:
   Use 4 resolutions: widescreen, desktop, tablet, mobile
 
   Nextjs, typescript, flow type checker
-  Sass, BEM css methodology, PostCSS(plugins: autoprefix (browserconfig: "defaults"), CSSnext, postcss-normalize, purgecss), BEM linter
+  Sass, BEM css methodology, PostCSS(plugins: autoprefix (browserconfig: "defaults"), CSSnext, postcss-normalize, purgecss), BEM linter, mini-css-extract-plugin'
   Haml
   webpack, babel (Plugins (look for plugins declaration order in babel oficial website) : @babel/preset-env (browserconfig: "defaults"), transform-minify-booleans )
   
