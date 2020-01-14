@@ -28,7 +28,9 @@ Tech:
     babel-plugin-react-css-modules
     MiniCssExtractPlugin
     css-loader, style-loader, cssnano, babel-loader (read all postcss github README.md)
+    https://github.com/webpack-contrib/awesome-webpack
   
   Cool packages:
     Waves: https://github.com/fians/Waves
+    FontsFaceObserver
     
